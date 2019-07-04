@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,aAAc,CACd,kBACF,CAEA,OACE,qBAAuB,CACvB,kBAAmB,CACnB,YACF","file":"main.ff8aeb55.chunk.css","sourcesContent":[".App {\n  width: 60%;\n  margin: 0 auto;\n  text-align: justify;\n}\n\n.posts {\n  border: 2px solid black;\n  border-radius: 20px;\n  padding: 10px;\n}\n"]}
